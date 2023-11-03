@@ -1283,9 +1283,8 @@ audio {
 .message p {
 	font-family: "Work Sans", sans-serif;
 	font-size: 30px;
-	font-style: italic;
+	font-style: normal;
 	color: #000;
-	text-shadow: 2px 2px 2px #FFF;
 	display: none;
 	font-weight: bold;
 }
