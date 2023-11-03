@@ -986,7 +986,7 @@ audio {
 	-ms-animation: bannar_come linear 6s;
 	-ms-transform:translate(0px,0px);
 	animation: bannar_come linear 6s;
-	transform:translate(0px,130px);
+	transform:translate(0px,180px);
 }
 
 @-webkit-keyframes bannar_come {
@@ -1070,7 +1070,7 @@ audio {
 		/*-webkit-transform:scale(1.5);*/
 	}
 	66% {
-		transform:translate(0px,130px);
+		transform:translate(0px,180px);
 		transform:rotate(10deg);
 		
 
@@ -1078,7 +1078,7 @@ audio {
 	100% {
 		
 		transform:rotate(-10deg);
-		transform:translate(0px,130px);
+		transform:translate(0px,180px);
 
 		
 	}
